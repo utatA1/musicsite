@@ -1,0 +1,123 @@
+body {
+    font-family: Geneva;
+    text-align: center;
+}
+
+.logo{
+    width: 150px;
+    height: 100px;
+}
+
+.button {
+    margin: 60px;
+    padding: 5px;
+    color: #000;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    font-size: 50px;
+    border: 0.5px solid #000;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+
+.button:hover{
+    border: 3px solid black;
+    box-shadow: 0 20px 30px 0 black;
+    transition: 0.4s ease-out;
+    opacity: 1;
+    transform: scale(10);
+}
+
+.logo:hover{
+    transform: scale(1.1);
+    transition: 0.4s ease-out;
+}
+
+h1{
+    opacity: 0.6;
+}
+
+h1:hover{
+    opacity: 1;
+    font-size: 50px;
+    transition: 0.4s ease-out;
+}
+
+.icon{
+    width: 35px;
+    height: 35px;
+    opacity: 0.5;
+}
+
+.icon:hover{
+    opacity: 1;
+    transition: 0.4s ease-out;
+}
+
+.red{
+    width: 200px;
+    height: 300px;
+    opacity: 0.5;
+    margin-right: 50px;
+}
+
+.red:hover{
+    border: 3px solid brown;
+    box-shadow: 0 20px 30px 0 brown;
+    transition: 0.2s ease-in;
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.blue{
+    width: 200px;
+    height: 300px;
+    opacity: 0.5;
+    margin-right: 50px;
+}
+
+.blue:hover{
+    border: 3px solid blue;
+    box-shadow: 0 20px 30px 0 blue;
+    transition: 0.2s ease-in;
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.green{
+    width: 200px;
+    height: 300px;
+    opacity: 0.5;
+    margin-right: 50px;
+}
+
+.green:hover{
+    border: 3px solid green;
+    box-shadow: 0 20px 30px 0 green;
+    transition: 0.2s ease-in;
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+footer{
+    background-color: lightgray;
+    border-radius: 20px;
+}
+
+.cont{
+    width: 50px;
+    height: 50px;
+    opacity: 0.5;
+}
+
+.cont:hover{
+    opacity: 1;
+    transform: scale(1.5);
+    transition: 0.2s ease-in;
+}
+
+
+
+
