@@ -106,18 +106,6 @@ footer{
     border-radius: 20px;
 }
 
-.cont{
-    width: 50px;
-    height: 50px;
-    opacity: 0.5;
-}
-
-.cont:hover{
-    opacity: 1;
-    transform: scale(1.5);
-    transition: 0.2s ease-in;
-}
-
 
 
 
